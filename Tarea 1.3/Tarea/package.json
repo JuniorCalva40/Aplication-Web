@@ -1,0 +1,11 @@
+{
+  "name": "tarea",
+  "version": "1.0.0",
+  "description": "\"Practices with nodejs\"",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junior Calva",
+  "license": "MIT"
+}
